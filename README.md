@@ -60,7 +60,7 @@ Java + JDBC application for storing and managing student data.
 
 ## 📬 Contact
 🔗 LinkedIn: linkedin.com/in/adi-ravi-kishore-allada-19326a2a3  
-📩 Email: your-email@gmail.com
+📩 Email: adiravikishoreallada@gmail.com
 
 ---
 
